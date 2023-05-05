@@ -1,2 +1,2 @@
 require("srg.remap")
-require("srg.settings")
+require("srg.options")
