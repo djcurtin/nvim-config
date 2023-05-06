@@ -1,3 +1,5 @@
 vim.g.mapleader = " "
 
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+-- Project navigation bindings
+vim.keymap.set("n", "<leader>e", vim.cmd.Ex)
+
